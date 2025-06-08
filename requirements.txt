@@ -1,0 +1,5 @@
+streamlit
+maplotlib
+pillow
+pandas
+numply
